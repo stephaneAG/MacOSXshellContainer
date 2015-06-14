@@ -1,0 +1,5 @@
+# I write the following as a simple reminder, sure it 'll be useful one day ..
+
+# the 'run.sh' file is a simple bash script ~ similar to any other bash script ( this only uses the command "say" for an easy wip testing )
+# the 'run.command' file is the same simple bash script, which once renamed become executable when double-click ( onto )
+# the 'run.app' file is still the same simple bash script, but this time it is embedded in a .app container, which makes it executable as any app ( nb: it's actually a hack, but it works fine ;D )
